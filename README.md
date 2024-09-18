@@ -23,6 +23,23 @@ This project allows you to compare two GitHub users and find their common follow
   - ASP.NET Core Web API
   - C#
   - GitHub REST API
+ 
+## Preivew
+
+### Normal state
+
+![image](https://github.com/user-attachments/assets/13d2abc1-e12b-4fa0-93ca-6342e0985558)
+
+### With User Names
+![image](https://github.com/user-attachments/assets/d56d750e-f1a7-4bfd-9647-13e236261886)
+
+##
+
+![image](https://github.com/user-attachments/assets/d390ba05-8373-47d9-945c-50474c364abe)
+
+## Http request methods
+![image](https://github.com/user-attachments/assets/c3144dd9-fa30-4c83-b366-4b8d0a27fa9a)
+
 
 ## Installation
 
